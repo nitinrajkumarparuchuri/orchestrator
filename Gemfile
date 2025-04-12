@@ -52,3 +52,12 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+# Background jobs
+gem 'sidekiq'
+
+# Memory usage
+gem 'get_process_mem'
+
+# Optional: Simulated data
+gem 'faker'
