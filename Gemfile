@@ -61,3 +61,4 @@ gem 'get_process_mem'
 
 # Optional: Simulated data
 gem 'faker'
+gem 'sqlite3', '>= 2.1'
